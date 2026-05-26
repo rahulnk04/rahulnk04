@@ -28,7 +28,8 @@
 </div>
 
 ---
-
+<a href="https://rahulnk04.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Click to my complete Portfolio -000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="88" width="100%" /> </a>
+---
 ## ⚡ Executive Blueprint & Focus Strategy
 
 <blockquote>
