@@ -1,6 +1,14 @@
+<div align="center">
+
 # 🚀 Rahul Ranjan Nayak
+
+<img src="https://github.com/user-attachments/assets/0353d5ba-ce20-4e87-8abc-8bc153f5a2a4" alt="Rahul Ranjan Nayak - Senior Lead Consultant & Frontend Architect" width="180" style="border-radius: 50%; border: 4px solid #007ACC; box-shadow: 0px 8px 24px rgba(0,122,204,0.3);" />
+
 ### Senior Frontend Engineer • UI Architect • Next.js & React.js Specialist
 
+</div>
+
+# 🚀 Rahul Ranjan Nayak
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
