@@ -28,7 +28,7 @@
 </div>
 
 ---
-<a href="https://rahulnk04.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Click to my complete Portfolio -000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="88" width="100%" /> </a>
+<a href="https://rahulnk04.github.io/portfolio" target="_blank">Rahul Ranjan Nayak | Portfolio <img src="https://img.shields.io/badge/Click Here to view my complete Portfolio -000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="88" width="100%" /> </a>
 ---
 ## ⚡ Executive Blueprint & Focus Strategy
 
