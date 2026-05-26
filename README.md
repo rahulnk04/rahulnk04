@@ -18,9 +18,10 @@
       <td width="30"></td>
       <td valign="middle" align="left">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&width=450&lines=Hi%2C%20I'm%20Rahul%20Ranjan%20Nayak!%20%F0%9F%91%8B;Senior%20Lead%20Consultant%20%40%20TCS;Next.js%20%26%20ReactJS%20Specialist;UI%20Architect%20%26%20Frontend%20Dev" alt="Rahul Ranjan Nayak Typography Pipeline" />
-        <p><strong>Engineering high-performance, enterprise-scale web applications with flawless frontend architecture. Driven by performance, metrics, and clean code governance.</strong></p>
+        <p><strong>Engineering high-performance, enterprise-scale web applications with flawless frontend architecture. Driven by performance, metrics, and clean code governance. <br/><br/><br/>View my Profiles in below platforms</strong></p>
         <p>
-          <a href="https://www.linkedin.com/in/rahulnk04/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+          <a href="https://www.gravatar.com/rahulnk04/" target="_blank"><img src="https://img.shields.io/badge/Gravatar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+               <a href="https://www.linkedin.com/in/rahulnk04/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
           <a href="https://github.com/rahulnk04" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>
           <a href="https://rahulnk04.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" /></a>
           <a href="https://in.pinterest.com/rahulnk04/rahul-ranjan-nayak/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" height="28" /></a>
